@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XXXII propositions or articles subscribed by severall reformed churches, and concurred in by divers godly ministers of the the city of London. Drawn out of the very fountaines of holy Scripture. Whereby not onely the cause of continuall variance in the Dutch, and other congregations of Christ in the city of London, may appeare : but also which are very profitable, to be set forth, especially in these dayes, wherein new congregations doe spring up. Novemb. 25. 1647. Imprimatur Ja. Cranford.</title>
+            <author>Nederlands Hervormde Gemeente (London, England)</author>
+         </titleStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95709</idno><idno type="EEBO-CITATION">99863597</idno>
+  <idno type="VID">115807</idno>
+  <idno type="EEBO-PROQUEST">2240941680</idno>
+  
+            <idno type="STC">Wing T921</idno>
+            <idno type="STC">Thomason E416_32</idno>
+            <idno type="STC">ESTC R203772</idno>
+            <idno type="PROQUEST">99863597</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863597e"/>
+            <note>(EEBO-TCP ; phase 2, no. A95709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115807)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>XXXII propositions or articles subscribed by severall reformed churches, and concurred in by divers godly ministers of the the city of London. Drawn out of the very fountaines of holy Scripture. Whereby not onely the cause of continuall variance in the Dutch, and other congregations of Christ in the city of London, may appeare : but also which are very profitable, to be set forth, especially in these dayes, wherein new congregations doe spring up. Novemb. 25. 1647. Imprimatur Ja. Cranford.</title>
+                  <author>Nederlands Hervormde Gemeente (London, England)</author>
+                  <author>Bèze, Théodore de, 1519-1605.</author>
+               </titleStmt>
+               <extent>[8], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: The ministers and elders of the Dutch-Church of Christ at London.</note>
+                  <note>Signed at end: Theodore Beza [and 18 others]. Hereunto also subscribed the churches of Berna, Lausannia, Tigurine, and Heydelbergine.</note>
+                  <note>With Latin text in the margin; original title not traced.</note>
+                  <note>Imperfect: staining and bleed-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Austin Friars (Church : London, England) --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Reformed Church --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>pfs </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>pfs</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115807:1"/>
+            <p>XXXII PROPOSITIONS OR ARTICLES Subscribed By severall Reformed Churches, and Concurred in by divers godly Ministers of the City of LONDON.</p>
+            <p>Drawn out of the very Fountaines of holy SCRIPTURE.</p>
+            <p>Whereby Not onely the cause of continuall vari<g ref="char:EOLhyphen"/>ance in the <hi>Dutch,</hi> and other Congregations of Christ in the City of <hi>London,</hi> may appeare: But also Which are very profitable, to be set forth, espe<g ref="char:EOLhyphen"/>cially in these dayes, wherein new Congre<g ref="char:EOLhyphen"/>gations doe spring up.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>Novemb.</hi> 25. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Ja. Cranford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitson,</hi> in Smithfield, neer the Queenes-head Tavern, 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <div xml:lang="eng" type="version">
+               <pb facs="tcp:115807:2"/>
+               <pb facs="tcp:115807:2"/>
+               <head>TO THE READER.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas it is well knowne unto all men almost in all places, good Chri<g ref="char:EOLhyphen"/>stian Reader, that there have been divers controversies, stirred up in this our Congregation, gathered to<g ref="char:EOLhyphen"/>gether in <hi>London,</hi> called the <hi>Dutch-Church,</hi> concerning certain ceremonies, and externall po<g ref="char:EOLhyphen"/>licy of the Church, and namely touching the Wit<g ref="char:EOLhyphen"/>nesses or God-father in Baptisme of infants, a ce<g ref="char:EOLhyphen"/>remony alwayes used in this Church: which con<g ref="char:EOLhyphen"/>troversies afterwards brought forth great and long contention, not without great offence of the godly in every place: We the Ministers of the said Church, after we had used divers meanes to this purpose, and divers consultations, both amongst
+<pb facs="tcp:115807:3"/> our selves, and with certaine godly ministers of other Churches, could find out, or know no bet<g ref="char:EOLhyphen"/>ter way to remedy this evill, then if we gathered to<g ref="char:EOLhyphen"/>gether out of the very fountaines of holy Scripture into certaine propositions and articles, the princi<g ref="char:EOLhyphen"/>pall grounds of our doctrine, (which we have al<g ref="char:EOLhyphen"/>wayes taught in handling the foresaid controver<g ref="char:EOLhyphen"/>sie: the ignorance whereof, hath beene the occasi<g ref="char:EOLhyphen"/>on of all this stirre betweene us and other men) which articles being sent unto that notable congre<g ref="char:EOLhyphen"/>gation of <hi>Geneva,</hi> and other reformed Churches of God, that they might not onely approve them, as agreeable to the doctrine which they professe at home, but also might by changing, adding, or detracting, correct them, and make them more plaine, according to their godly wisdomes. that by this meanes they might be unto us and our Church (which hitherto hath peaceably continued under our ministery) a publique testimony, and that they might also serve to all other Churches either of our nation and language, or to any other private men, which by any meanes are herein misliking with us, as a remedy to unite true and Christian concord, to the common building up of Gods Church. And because
+<pb facs="tcp:115807:3"/> our foresaid articles, now (according to our earnest desire) are not onely approved, but also returned unto our hands very plainly, and clearely set forth we would not bereave Gods Church (unto the which we owe our selves and all our labours) of them, but according to our super-intendent the Re<g ref="char:EOLhyphen"/>verend Lord Bishop of <hi>London</hi> his councell, faithfully set them forth in this manner, drawne out of the very coppies of the forenamed Church of <hi>Geneva.</hi> Wherefore we beseech all ministers of Churches, especially of our nation and tongue, and generally all manner of men whosoever they be, which by reason of our former discention, have found any lacke in us, that they would diligently reade over these articles, and advisedly marke them: and maintaine and defend with us the doctrine in them contained (which we have here advouched by the publique subscriptions of certaine reformed Churches of God) to the common utility of the Church, and the advancing of our common salva<g ref="char:EOLhyphen"/>tion. And in case they have here any matter a<g ref="char:EOLhyphen"/>gainst us; to wit (as we have often and openly of our owne accord professed before the whole congrega<g ref="char:EOLhyphen"/>tion) that in prosecuting this controversie, we
+<pb facs="tcp:115807:4"/> have shewed the imperfection of men, or in some place have passed the boundes of foresight, gentle<g ref="char:EOLhyphen"/>nesse, or patience, by any meanes they would here<g ref="char:EOLhyphen"/>in pardon us even for Christ his sake. God the authour of all peace, direct all our hearts unto true and wholesome peace in Christ Jesus; Amen.</p>
+               <closer>
+                  <dateline>Written at <hi>London</hi> in the Consistory of the <hi>Dutch</hi> Church.</dateline>
+                  <signed>The Ministers and Elders of the Dutch-Church of Christ at LONDON.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="version">
+               <pb facs="tcp:115807:2"/>
+               <p>Quum passim om<g ref="char:EOLhyphen"/>nibus fere <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no<g ref="char:EOLhyphen"/>tum sit, pie lector, in Ecclesia nostra - Belgio germanica, Londini collecti, varias cótroversias excita<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as fuisse cir<g ref="char:EOLhyphen"/>ca ritus quosdam &amp; externum Ecclesiae politiam, ac nomi<g ref="char:EOLhyphen"/>natim de testibus seu concuratoribus ad paedobaptismū adsciscend<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, cere<g ref="char:EOLhyphen"/>monia in hac Ec<g ref="char:EOLhyphen"/>clesia semper ob<g ref="char:EOLhyphen"/>servata. quae qui<g ref="char:EOLhyphen"/>dem controversiae, postea grave &amp; di<g ref="char:EOLhyphen"/>utinum dissidium cum maxima ubiq{que} piorum offensione pepererunt: Nos dictae Ecclesiae mi<g ref="char:EOLhyphen"/>nistri post varia adhibita huc media &amp; varias interno
+<pb facs="tcp:115807:3"/> nos ac cum non<g ref="char:EOLhyphen"/>nullis aliis piis Ec<g ref="char:EOLhyphen"/>clesiarum ministris consultariones, nul<g ref="char:EOLhyphen"/>la alia cummodio<g ref="char:EOLhyphen"/>re ratione huic ma<g ref="char:EOLhyphen"/>lo occurrere potui<g ref="char:EOLhyphen"/>mus aut scivimus, quamsi nostrae do<g ref="char:EOLhyphen"/>ctrine (quam nos quidem in agenda dictae controversiae causa perpetuo pro<g ref="char:EOLhyphen"/>posuimus: cuius{que} ignorantia univer<g ref="char:EOLhyphen"/>sam hanc inter nos &amp; alios difficulta<g ref="char:EOLhyphen"/>tem objecisse visa est) fundamenta ex sacrae scripturae fontibus, certis the<g ref="char:EOLhyphen"/>sibus seu articulis conciperemus, quos ad eximam illam Genevensem &amp; quasdam alias re<g ref="char:EOLunhyphen"/>formatores Dei Ec<g ref="char:EOLhyphen"/>clesias missos, ipsae non solum, ut do<g ref="char:EOLhyphen"/>ctrinae, quam domi profitebantur, con<g ref="char:EOLhyphen"/>formes approba<g ref="char:EOLhyphen"/>rent, sed &amp; juxta suam piam pruden<g ref="char:EOLhyphen"/>tiam, cum mutando tum addendo, tum adimendo melius explicarent &amp; cor<g ref="char:EOLhyphen"/>rigerent: quo sic nobis ac nostrae Ec<g ref="char:EOLhyphen"/>clesiae (quae hacte<g ref="char:EOLhyphen"/>nus sese tranquille sub nostro ministe<g ref="char:EOLhyphen"/>rio gessit) publico testimonio esse, ac quibusvis aliis sive nostrae nationis &amp; linguae Ecclesiis, sive privatis hominibus qui ulla hic ratione a nobis alienati essent, verae ad Christianae concordiae in communem Ecclesiae Dei aedificationem incundae remedio servire possent.
+<pb facs="tcp:115807:3"/> quoniam vero dictis nostri articuli, nunc (prout serio expe<g ref="char:EOLhyphen"/>tivimus) non solum approbati, sed &amp; admodum commo<g ref="char:EOLhyphen"/>de expliciti, atque illustrati ad nos ve<g ref="char:EOLhyphen"/>nerunt, iis Ecelesi<g ref="char:EOLhyphen"/>am Dei (cui nos ipsos ac omnia no<g ref="char:EOLhyphen"/>stra studia debe<g ref="char:EOLhyphen"/>mus) fraudare no<g ref="char:EOLhyphen"/>luimus, sed eos jux<g ref="char:EOLhyphen"/>ta nostri superin<g ref="char:EOLhyphen"/>tendentis reverendi D. Episcopi Londi<g ref="char:EOLhyphen"/>nēsis cōsilium, fide<g ref="char:EOLhyphen"/>liter ex ipsius dictae Ecclesiae Geneven<g ref="char:EOLhyphen"/>sis autographis de<g ref="char:EOLhyphen"/>sumptos, hic ratio<g ref="char:EOLhyphen"/>ne proponere volu<g ref="char:EOLhyphen"/>imus. Ac proinde oramus quosvis Ecclesiarum mini<g ref="char:EOLhyphen"/>stros, cum primis autem nostrae nati<g ref="char:EOLhyphen"/>onis &amp; linguae, ac in universum quos<g ref="char:EOLhyphen"/>vis homines, qui<g ref="char:EOLhyphen"/>cun{que} tandem sint, qui superioris apud nos dissidij occasi<g ref="char:EOLhyphen"/>one in nobis quic<g ref="char:EOLhyphen"/>quam desiderant, ut eosdem dictos arti<g ref="char:EOLhyphen"/>culos diligenter perlegant, &amp; serio expendant: ac do<g ref="char:EOLhyphen"/>ctrinam in iis com<g ref="char:EOLhyphen"/>prehensam (quam hic aliquot refor<g ref="char:EOLhyphen"/>matiorum Ecclesiarum Dei publicis subscriptionibus contestatam babemus) nobiscum in com<g ref="char:EOLhyphen"/>munem Ecelesiae Dei utilitatem, &amp; communem nostram salutem pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vehendam propugnent ac tucantur, Et si quid hic adversum nos dictos ministros habeant, quod videlicet (ut &amp; frequen<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:115807:4"/>publice coram universa nostra Ec<g ref="char:EOLhyphen"/>clesia ultro professi sumus) in prose<g ref="char:EOLhyphen"/>quenda hujus con<g ref="char:EOLhyphen"/>troversiae causa quic<g ref="char:EOLunhyphen"/>quam humani pas<g ref="char:EOLhyphen"/>si simus, aut alicu<g ref="char:EOLhyphen"/>bi providentiae, le<g ref="char:EOLhyphen"/>nitatis aut longani<g ref="char:EOLhyphen"/>mitatis limites, ulla ratione excesseri<g ref="char:EOLhyphen"/>mus, id nobis ob Christi nomē con<g ref="char:EOLhyphen"/>donare velint.</p>
+               <closer>
+                  <salute>De<g ref="char:EOLhyphen"/>us omnis pacis au<g ref="char:EOLhyphen"/>thor, dirigat nostra omnium corda ad veram &amp; salutatem pacem in Christo Jesu, Amen,</salute>
+                  <dateline>Da<g ref="char:EOLhyphen"/>tae Londini in Consistorio Eccle<g ref="char:EOLhyphen"/>siae Belgio-germa<g ref="char:EOLhyphen"/>nica, <date>18. Septemb. 1568.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:115807:4"/>
+            <head>A Table of the pith or principall Mat<g ref="char:EOLhyphen"/>ters contained in this Book.</head>
+            <list>
+               <item>1. <hi>WHat is the Christian liberty.</hi> pag. 3</item>
+               <item>2 <hi>How this liberty is transgressed.</hi> ibid.</item>
+               <item>3 <hi>Of private mens judgement in matters indifferent.</hi> pag. 4</item>
+               <item>4 <hi>Of Conscience.</hi> ibid.</item>
+               <item>5 <hi>Things indifferent.</hi> ibid.</item>
+               <item>6 <hi>Things otherwise indifferent.</hi> pag. 5</item>
+               <item>7 <hi>Ceremoniall law.</hi> ibid.</item>
+               <item>8 <hi>The use of things indifferent in generall.</hi> ibid.</item>
+               <item>9 <hi>The use of things indifferent in speciall.</hi> pag. 6</item>
+               <item>10 <hi>Circumstances in things indifferent be divers.</hi> ibid.</item>
+               <item>11 <hi>To forbid or command things indifferent, except for three causes, doe offend, also they that rashly judge o<g ref="char:EOLhyphen"/>ther mens conscience herein.</hi> pag. 7</item>
+               <item>12 <hi>Christian Liberty is not to bee prejudiced generally, but by circumstance.</hi> ibid.</item>
+               <item>13 <hi>They are to be reproved which wound weak cansci<g ref="char:EOLhyphen"/>ences in things indifferent.</hi> pag. 8</item>
+               <item>14 <hi>Constitutions, are some universall, and same particu<g ref="char:EOLhyphen"/>lar.</hi> ibid.</item>
+               <item>15 <hi>What the Church in, sometime manifest, sometime obscure.</hi> pag. 9</item>
+               <item>16 <hi>Every man must joyne himselfe to some particular Church, being visible.</hi> ibid,</item>
+               <item>17 <hi>No superiority in particular Churches.</hi> ibid.</item>
+               <pb facs="tcp:115807:5"/>
+               <item>18 <hi>Synodes for to decide controversies.</hi> pag. 10</item>
+               <item>19 <hi>Schismes and apostacy from the Church is to bee a<g ref="char:EOLhyphen"/>voyed.</hi> pag. 11</item>
+               <item>20 <hi>The lawfull ministers and Elders represent the Church.</hi> ibid.</item>
+               <item>21 <hi>Let no man trouble the congregation, but aske coun<g ref="char:EOLhyphen"/>cell of the Pastors. No law is to be made but according to the word profitable and necessary.</hi> ibid.</item>
+               <item>22 <hi>Such as resist godly lawes, and conspire against Gods ministers are enemies to the Church.</hi> pag. 12</item>
+               <item>23 <hi>How far the authority and duty of the ministers and elders of Christ's Church is extended.</hi> ibid.</item>
+               <item>24 <hi>What excommunication is, and for whom of Christ ordained.</hi> pag. 13</item>
+               <item>25 <hi>All matters of injury ought to be prosecuted chari<g ref="char:EOLhyphen"/>tably and with modesty.</hi> ibid.</item>
+               <item>26 <hi>Excommunicate persons not to be received into the congregation before manifest proofe of their unfained repentance.</hi> pag. 14</item>
+               <item>27 <hi>Civill magistrates be of God, and to what end of him ordained</hi> ibid.</item>
+               <item>28 <hi>Civill ordinances made by civill magistrates ought to be obeyed.</hi> ibid.</item>
+               <item>29 <hi>The godly magistrate and also the wicked, be Gods in<g ref="char:EOLhyphen"/>struments, the one a blessing, the other a scourage.</hi> ibid.</item>
+               <item>30 <hi>It belongeth to the civill magistrates to defend the Church of Christ.</hi> pag. 15</item>
+               <item>31 <hi>Every man in his vocation ought to live as a sub<g ref="char:EOLhyphen"/>ject.</hi> ibid.</item>
+               <item>32 <hi>Manifest and notorious crimes (of the inferior Magi<g ref="char:EOLhyphen"/>strate are onely to be punished by the Prince: and here in all private men and other rather to suffer wrong then to rebell.</hi> ibid.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <div xml:lang="eng" type="version">
+               <pb n="1" facs="tcp:115807:5"/>
+               <opener>
+                  <salute>To The Godly Servants of CHRIST, the Pastours and Seniors of the <hi>Dutch</hi>-Church in <hi>LONDON,</hi> OUR <hi>Worshipfull Brethren and fellow Mini<g ref="char:EOLhyphen"/>sters in the Lord, grace and peace from God the Father, through Jesus Christ our Lord,</hi> AMEN.</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>S it was grevious unto us, to under<g ref="char:EOLhyphen"/>stand (worshipfull brethren) with what and how great discord the Church committed to your charge, is troubled, so is it pleasant unto us to heare, that you not onely doe your indeavour to establish peace and concord, but take that advice to bring the same to passe, which we judge most pro<g ref="char:EOLhyphen"/>fitable and necessary. For whereas the Church is in<g ref="char:EOLhyphen"/>gendered of the word of God, as it were of certaine seede, and is not nourished with any other nutriment
+<pb n="2" facs="tcp:115807:6"/> than it, yee seeme to have judged very well, that controversies already begun, must be asswaged, and such as perchance hereafter shall arise, can be stopped by no other meanes, then by wholsome doctrine once established. Wherfore we gladly read over, and con<g ref="char:EOLhyphen"/>sider your Propositions written concerning Christi<g ref="char:EOLhyphen"/>an liberty, and certaine other questions annexed un<g ref="char:EOLhyphen"/>to it, as of the lawfull use of indifferent things, and finally of the bonds of Ecclesiasticall and civill juris<g ref="char:EOLhyphen"/>diction. What our opinion is hereof, because you so earnestly require it of us (who otherwise would ne<g ref="char:EOLhyphen"/>ver have entermedled our judgement herein) that you have thought good to send certaine brethren unto us touching this matter, we could not but satisfy your de<g ref="char:EOLhyphen"/>sire and our own dutie herein. Wherefore we make you answere, that generally we allow your doctrine com<g ref="char:EOLhyphen"/>prised in them, as agreeable to the word of God, and to the writings of godly authors, &amp; for this your con<g ref="char:EOLhyphen"/>sent with the holy Congregations, wee rejoyce with you in the Lord, wherein also we most earnestly be<g ref="char:EOLhyphen"/>seech you, that ye constantly persevere unto the end. Notwithstanding thus much, according to that pre<g ref="char:EOLhyphen"/>rogative which ye grant unto us, we freely and simp<g ref="char:EOLhyphen"/>ly confesse unto you, that we finde want of perspicu<g ref="char:EOLhyphen"/>itie in certaine points, which you know very well is especially required in such Aphorismes. There are also some things which seem uttered som what hardly, other too breifly, and some things not set in their due
+<pb n="3" facs="tcp:115807:6"/> place. And to be short, we had rather that some things had not been pretermitted, as we have thought good to declare particularly, that afterwards you might de<g ref="char:EOLhyphen"/>termine on the whole matter, as the spirit of God shall minister unto you.</p>
+               <div n="1" type="article">
+                  <head>1 <hi>What is the Christian liberty.</hi>
+                  </head>
+                  <p>CHristian liberty is not a wandering, and an un<g ref="char:EOLhyphen"/>ruly licence, by the which we may doe, or leave undone whatsoever we list, at our pleasure: but it is a free gift bestowed upon us, by Christ our Lord, by the which the children of God (that is all the faith<g ref="char:EOLhyphen"/>full) being delivered from the curse of the law, or e<g ref="char:EOLhyphen"/>ternall death, and from the heavy yoake of the ce<g ref="char:EOLhyphen"/>remoniall law, and being endowed with the holy ghost, beginne willingly of their own accord to serve God in holinesse and righteousnesse.</p>
+               </div>
+               <div n="2" type="article">
+                  <head>2 <hi>How this Liberty is transgressed.</hi>
+                  </head>
+                  <p>Therefore, sith that he which is the sonne of God, is ruled by the spirit of God, and that the same spi<g ref="char:EOLhyphen"/>rit commandeth us that we should obey all ordinances of man (that is, all politique order whereof the ma<g ref="char:EOLhyphen"/>gistrate is the gardian) and all superiours which watch for the health of our soules, yea, and that according to our vocation wee should diligently procure the safe<g ref="char:EOLhyphen"/>gard of our neighbour: it followeth, that that man abuseth the benefit of Christian liberty, or rather is yet sold under sinne, who doth not willingly obey either his magistrate, or superior in the Lord, nor doth not indeavour to edifie the conscience of his brother.</p>
+               </div>
+               <div n="3" type="article">
+                  <pb n="4" facs="tcp:115807:7"/>
+                  <head>3 <hi>Of private mens judgement in matters indifferent.</hi>
+                  </head>
+                  <p>Moreover what is profitable to edifie, and what is not, is not to be determined by the judgement of the common people, or of some simple man, nor yet by the issue of mens actions: but rather sometime by the nature of those things, touching the doing or not doing whereof, question is moved (as if they be either com<g ref="char:EOLhyphen"/>manded or forbidden by GOD, and be agreeable unto our calling, or not). And sometimes (as if the matters were otherwise of their own natures, mean or indifferent) they are to bee considered by the cir<g ref="char:EOLhyphen"/>cumstances of the times, places and persons, weyghed according to the ballance of Gods word.</p>
+               </div>
+               <div n="4" type="article">
+                  <head>4 <hi>Of Conscience.</hi>
+                  </head>
+                  <p>Conscience is the feeling of Gods judgement, whether that a man bee assured out of the word of God of that judgement, or that he make it to himself rashly and superstitiously. But whereas it is the duty of Christians to observe the Commandements of their Lord, that indeed is properly called a right and good conscience, which is governed by the word of God: whereby it cometh to passe, that every faith<g ref="char:EOLhyphen"/>full man, by that revealed word doth examine and waigh with himselfe, both what hee doth, and also what he letteth undone, that hee may judge of them both, which is just, and which is unjust.</p>
+               </div>
+               <div n="5" type="article">
+                  <head>5 <hi>Things Indifferent.</hi>
+                  </head>
+                  <p>Indifferent things are called those, which by them<g ref="char:EOLhyphen"/>selves,
+<pb n="5" facs="tcp:115807:7"/> being simply considered in their owne nature, are neither good nor bad, as meate and drinke, and such like, in the which therefore it is said, that the Kingdome of God consisteth not, and that therefore a man may use them well or evill: whereof it fol<g ref="char:EOLhyphen"/>loweth, that they are marvelously deceived, which suppose they are called indifferent, as though with<g ref="char:EOLhyphen"/>out any exception we may omit them, or use them, as often as we list, without any sinne.</p>
+               </div>
+               <div n="6" type="article">
+                  <head>6. <hi>Things otherwise indifferent.</hi>
+                  </head>
+                  <p>Things otherwise indifferent of themselves, af<g ref="char:EOLhyphen"/>ter a sort change their nature, when by some com<g ref="char:EOLhyphen"/>mandement they are either commanded, or forbid<g ref="char:EOLhyphen"/>den, because neither they can be omitted contrary to the commandement, if they are once commanded, neither omitted contrary to prohibition, if they bee prohibited, as it appeareth in the ceremoniall law.</p>
+               </div>
+               <div n="7" type="article">
+                  <head>7 <hi>Ceremoniall Lawes.</hi>
+                  </head>
+                  <p>Albeit the yoak of the ceremonial law be taken away by Christian liberty, and that it is not lawfull for any mortall man to lay another yoke in the place thereof, yet notwithstanding the confused use of indifferent things, may bee lawfully repressed, both generally and specially.</p>
+               </div>
+               <div n="8" type="article">
+                  <head>8 <hi>The Use of things indifferent in generall.</hi>
+                  </head>
+                  <p>Generally the use of these indifferent things is re<g ref="char:EOLhyphen"/>strained by the law of charity, which is universall, that is, belonging to all men, and plainly forbidding
+<pb n="6" facs="tcp:115807:8"/> that nothing otherwise indifferent and lawfull be done, whereby thy neighbour is destroyed, or that any thing be omitted, whereby he may be edified. But yet here are two things to be presupposed: the one, that judgement be taken out of the word of God, what may or ought to be done, or not done: the o<g ref="char:EOLhyphen"/>ther, that every man have consideration of his calling. And so we say the words of the Apostle are to be un<g ref="char:EOLhyphen"/>derstood, <hi>I was made all things to all men.</hi>
+                  </p>
+               </div>
+               <div n="9" type="article">
+                  <head>9. <hi>The use of things indifferent in speciall.</hi>
+                  </head>
+                  <p>Specially the use of these things is forbidden by Ec<g ref="char:EOLhyphen"/>clesiasticall, or civill decree. For although that on<g ref="char:EOLhyphen"/>ly God doth properly binde the conscience of man, yet in respect that either the Magistrate, who is Gods Minister, doth thinke it profitable for the Common<g ref="char:EOLhyphen"/>wealth, that some thing, otherwise of it self lawfull, bee not done, or that the Church, having regard to order, comelinesse, and also edifying, doe make some Laws concerning indifferent things, those laws are al<g ref="char:EOLhyphen"/>together to be observed of the godly, and doe so farre forth binde the conscience, that no man wittingly, and willingly, with a stubborne minde, may without sin, either doe those things which are forbidden, or omit those things which are commanded.</p>
+               </div>
+               <div n="10" type="article">
+                  <head>10. <hi>Circumstances in things indifferent be divers.</hi>
+                  </head>
+                  <p>And sith these things are not ordained simply for themselves, but in respect of certain circumstances, not as though the things themselves were of their own nature unlawfull (for it belongeth onely to God to
+<pb n="7" facs="tcp:115807:8"/> determine this) in case those circumstances doe cease, and so be, that offence be avoyded as neere as we can, and that there be no stubborn will of resisting, no man is to be reproved of sin, which shall do otherwise than those Ordinances, as it is plain by the example of <hi>Da<g ref="char:EOLhyphen"/>vid</hi> in a case otherwise flatly forbidden, when he ate the shew bread.</p>
+               </div>
+               <div n="11" type="article">
+                  <head>11. <hi>To forbid, or to command things indifferent, except for three causes, doe offend: also they that rashly judge other mens conscience herein.</hi>
+                  </head>
+                  <p>They which for any other cause, either command, or forbid, at their pleasure, the free use of indifferent things, than for one of these three, that is, neither for edifying, nor for policy, nor Ecclesiasticall Order: and especially those, which doe rashly judge other mens consciences in these matters, offend hainously against God, and against their neighbour.</p>
+               </div>
+               <div n="12" type="article">
+                  <head>12. <hi>Christian Liberty is not to be prejudiced generally, but by circumstance.</hi>
+                  </head>
+                  <p>Those which thus do, either by open wickednesse, or by wilfull ignorance, are not to be regarded. But those, which being deceived by simple ignorance, or by authority of ancient custome, have erred in these things, are to be borne withall, as much as may be, and yet but so farre as Christian liberty be not generally prejudiced, which thing is to be discerned, by the cir<g ref="char:EOLhyphen"/>cumstances, and by the spirit of discretion: as it ap<g ref="char:EOLhyphen"/>peareth not onely by the doctrine, but also the doings of saint <hi>Paul,</hi> who reprehended <hi>Peter,</hi> circumcised <hi>Ti<g ref="char:EOLhyphen"/>mothy,</hi>
+                     <pb n="8" facs="tcp:115807:9"/> and againe would not circumcise <hi>Titus.</hi> And therefore there is no cause why the Church should al<g ref="char:EOLhyphen"/>ter this or that, being well ordained, for feare of offen<g ref="char:EOLhyphen"/>ding some private men.</p>
+               </div>
+               <div n="13" type="article">
+                  <head>13 <hi>They are to be reproved which wound weak consciences in things indifferent.</hi>
+                  </head>
+                  <p>Even as they of whom I spake a little before, do gree<g ref="char:EOLhyphen"/>viously offend against God, and their neighbor, so are they greatly to be blamed, who either by preposte<g ref="char:EOLhyphen"/>rous zeale, or by impatience, do quite overthrow the consciences which are weak, and not throughly in<g ref="char:EOLhyphen"/>structed in indifferent things, either to doe them, or to leave them undone, as likewise they offend on the o<g ref="char:EOLhyphen"/>ther side, which by their winking cherrish and con<g ref="char:EOLhyphen"/>firme the weaknesse of their brethren.</p>
+               </div>
+               <div n="14" type="article">
+                  <head>14 <hi>Constitutions are some universall, and some particular.</hi>
+                  </head>
+                  <p>These Ecclesiasticall constitutions being lawfully made in respect of certaine circumstances (that is of order and for common utility, and not as though there were any worshiping of God placed in them) are not onely Catholique, that is, universall, but also some<g ref="char:EOLhyphen"/>times particular, for the manifold variety of the cir<g ref="char:EOLhyphen"/>cumstances: and therefore both these men offend which doe rashly change them that are Catholique, and also those which doe stifly retaine the same, al<g ref="char:EOLhyphen"/>beit there be especiall necessity to alter them: but cheif<g ref="char:EOLhyphen"/>ly those which by wrong judgement thrust particular ceremonies unto all men.</p>
+               </div>
+               <div n="15" type="article">
+                  <pb n="9" facs="tcp:115807:9"/>
+                  <head>15 <hi>What the Church is. Sometime manifest: sometime obscure.</hi>
+                  </head>
+                  <p>The Church of Christ is a congregation of men professing Christs Gospell in the which the Gospell is purely taught, and the Sacraments duly administred out of the word of God, by ministres caled to the same purpose. The which congregation sometime is small, and sometime great, and sometime is seene of men (as when the ministery is publique) and sometime hidden and as it were for a time overwhelmed, either by pub<g ref="char:EOLhyphen"/>lique corruption of all estates, or force of the enemy or by both these mischeifes, God excercising his just judgement against mans wickednesse, but never quite destroying his congregation.</p>
+               </div>
+               <div n="16" type="article">
+                  <head>16 <hi>Every man must joyne himselfe to some particular Church being visible.</hi>
+                  </head>
+                  <p>So often as God doth ordeine such visible compa<g ref="char:EOLhyphen"/>nies, to make himselfe knowne in them, to call his e<g ref="char:EOLhyphen"/>lect, and to dispense the riches of his spirit by the mi<g ref="char:EOLhyphen"/>nisterie of his word and Sacraments, it is very mani<g ref="char:EOLhyphen"/>fest, that it is most necessary, that every man which will not teach God and his wisdome, to his owne most certaine destruction) according as opportunity is offered, do joyne and submit himselfe to some parti<g ref="char:EOLhyphen"/>cular church, as it were to some certaine Parish, in this great and wide city of God.</p>
+               </div>
+               <div n="17" type="article">
+                  <head>17 <hi>No superiority in particular Churches.</hi>
+                  </head>
+                  <p>Now that the Catholique Church of God may continue in unity, it is not lawfull for any particular
+<pb n="10" facs="tcp:115807:10"/> Church to usurpe any supremacie or superiority over an other, by authority to judge it, condemne it, or to seperate her selfe from it, especially sith it is manifest that all the Churches of God are endowed with e<g ref="char:EOLhyphen"/>quall power.</p>
+               </div>
+               <div n="18" type="article">
+                  <head>18 <hi>Sinods for to decide controversies.</hi>
+                  </head>
+                  <p>Furthermore if any particular Church finde any fault in an other, whether it be in doctrine or in man<g ref="char:EOLhyphen"/>ners, and then by brotherly conference and godly ex<g ref="char:EOLhyphen"/>hortation prevaile nothing, the same must, (avoyd<g ref="char:EOLhyphen"/>ing all curiositie, which is able to set congregations at varience, and observing the hand of common friend<g ref="char:EOLhyphen"/>ship) endeavour to refer the whole matter unto a Sy<g ref="char:EOLhyphen"/>node or councell, in the which the controversie may be tryed onely by the word of God. By the name of a Synod we understand not, neither an oecumenicall councell, as they terme it (for who shall gather it to<g ref="char:EOLhyphen"/>gether?) neither any such meeting, whereunto it is ne<g ref="char:EOLhyphen"/>cessary that certaine hundreds of Churches meet toge<g ref="char:EOLhyphen"/>ther, except the order of some region be such, but such an one unto the which, according to the place and time, other Churches, either neare at hand, or far off, may be joyned, which by the word of God may decide the controversie.</p>
+               </div>
+               <div n="19" type="article">
+                  <head>19 <hi>Schismes and apostacy from the Church is to bee avoyded.</hi>
+                  </head>
+                  <p>Wherefore to avoid the filthy and pestilent ren<g ref="char:EOLhyphen"/>ting and tearing asunder of the holy body of Christ, we thinke it is not lawfull for any man for any cause,
+<pb n="11" facs="tcp:115807:10"/> to depart from Christs Church, that is, from that Church in which at the least-wise that doctrine is pre<g ref="char:EOLhyphen"/>served whole and sound, wherein consisteth the sound<g ref="char:EOLhyphen"/>nesse of Religion, and wherein the use of the Sacra<g ref="char:EOLhyphen"/>ments, which Christ hath instituted, is preserved. And therefore we affirme that not only heretiques, but also schismatiques, doe grievously offend. To depart out of Christs Church, is not simply to goe from one company to another, but as though thou remaine in one place, to seperate thy selfe from the fellowship of the congregation, as though thou were no member thereof.</p>
+               </div>
+               <div n="20" type="article">
+                  <head>20 <hi>The lawful Ministers and Elders represent the church.</hi>
+                  </head>
+                  <p>In the Church of Christ, that is to say, in the house or city of the living God, the consistory or fellowship of governours consisting of the ministers of the▪ word, and of Seniors lawfully called, susteineth the person of the universall Church in ecclesiasticall government, even as every magistrate in his common wealth.</p>
+               </div>
+               <div n="21" type="article">
+                  <head>21 <hi>Let no man trouble the congregation but aske counsel of the Pastors. No law is to be made but according to the word profitable and necessary.</hi>
+                  </head>
+                  <p>
+                     <choice>
+                        <sic>In</sic>
+                        <corr>If</corr>
+                     </choice> any man, either private, or bearing publique office in the Church, doe not agree unto the Ecclesi<g ref="char:EOLhyphen"/>asticall constitutions now made and received, especi<g ref="char:EOLhyphen"/>ally such as are catholique, he is bound to aske coun<g ref="char:EOLhyphen"/>cell modestly of the Pastors and Seniors, and to stand to their arbitriment, at the least thus far, that he trou<g ref="char:EOLhyphen"/>ble not the congregation, according to that saying of the Apostle, <hi>If any man lust to be contentious, we have no such custome, neither the Churches of God.</hi> But if
+<pb n="12" facs="tcp:115807:11"/> there be any stirre concerning the making of lawes, then must nothing at al be rashly altered, no not by the consistory it s;elfe: and before any law be established, we must not onely see whether it be agreeable to the word of God, but also whether it be profitable, and almost necessary to bee brought up. But in case there be but a lawfull suspition that some of the flocke will be offended, &amp; yet it is not meet the whole congrega<g ref="char:EOLhyphen"/>tion give voice therein, and that the helpe of a good Magistrate doe want, the opinion of such men are to be asked and diligently weighed, that these which are weake may be instructed, and if any shall be stubborn they may in time be admonished of their duty. Nei<g ref="char:EOLhyphen"/>ther shall it grieve them, if the matter so require; to seeke councel of such Churches as are least suspected or of some godly and learned men, so that nothing be decreed in the Church of God, but with fruite and e<g ref="char:EOLhyphen"/>dification.</p>
+               </div>
+               <div n="22" type="article">
+                  <head>22 <hi>Such as resist godly lawes and conspire against Gods ministers are enemies to the Church.</hi>
+                  </head>
+                  <p>Those which shall factiously set themselves against lawes made after this sort, and will not be brought to their duty, and much rather those which conspire a<g ref="char:EOLhyphen"/>gainst their ministers and seniors, are worthy to bee handled as open enemies to the Church.</p>
+               </div>
+               <div n="23" type="article">
+                  <head>23 <hi>How farre the authority and duty of the Ministers and Elders of Christs Church is extended.</hi>
+                  </head>
+                  <p>It belongeth onely to the consistory, to be occupi<g ref="char:EOLhyphen"/>ed in making new lawes of discipiline, as we stand in trembling and feare of the Lord, and in applying such as are already made to the present necessity, and
+<pb n="13" facs="tcp:115807:11"/> in admonishing, and also if the last remedy must needs be used, either in suspending from the supper of our Lord, or in once excommunicating them which have offended, according as the circumstances of the thing, the time, and persons shall seeme to require. For is it not written of the universal Church, nor of the whole congregation in any particular Church, but only of the foresaid governours of the Church (whom Christ instituted in his Church according to the example of the former Church of the Jewes) <hi>Tell the Church, and if he refuse to heare the Church, let him be unto thee as a heathen, and a publican.</hi>
+                  </p>
+               </div>
+               <div n="24" type="article">
+                  <head>24 <hi>What excommunication is, and for whom of Christ ordeined.</hi>
+                  </head>
+                  <p>Ecclesiasticall excommunication, is the publique judgement of the seniors of the Church, against a subject of the Church, having fallen, and being unre<g ref="char:EOLhyphen"/>pentant, after lawfull examination, and due ad<g ref="char:EOLhyphen"/>monition of his faults, pronounced in the name of Christ our Lord, and by the authority of his word, wherby it is declared, that the same man until he (re<g ref="char:EOLhyphen"/>pent) is cast out of the Church of God and communi<g ref="char:EOLhyphen"/>on of saints, and given over unto sathan.</p>
+               </div>
+               <div n="25" type="article">
+                  <head>25 <hi>All matters of injury ought to be prosecuted charitably and with modesty.</hi>
+                  </head>
+                  <p>If any man complayn of injury done unto him, they shall first complayne to the consistory, and that after a modest sort, as it becommeth Christians, rather con<g ref="char:EOLhyphen"/>fessing their faults than excusing them, that if it might be, the matter might be determined &amp; ended at home. But in case it cannot so be, either they must seeke unto other Churches, or if neede be, they must goe to the Christian Magistrate, or refer the matter unto a Sy<g ref="char:EOLhyphen"/>node.
+<pb n="14" facs="tcp:115807:12"/> That order (to be short) shall be observed which is used in that country where any such thing shall hap<g ref="char:EOLhyphen"/>pen. In the meane season, whosoever shall factious<g ref="char:EOLhyphen"/>ly prosecute the matter, &amp; not rather peaceably folow the cause, he declareth himselfe therein worthy, who even for that should be removed out of the Church.</p>
+               </div>
+               <div n="26" type="article">
+                  <head>26. <hi>Excommunicate persons not to be received into the congregation before manifest proofe of unfained repentance.</hi>
+                  </head>
+                  <p>Those which be lawfully excommunicated, or have unlawfully departed from the Church with offence, in so much as they are banished from the Kingdome of Christ and from salvation, they can in no wise be ad<g ref="char:EOLhyphen"/>mitted unto any publick function in the Church, or to the use of the Sacraments, untill such time as they have justly satisfied the congregation, neither can there bee any company joyned, or kept with them, except it be such as may make to their amendment, or at the least<g ref="char:EOLhyphen"/>wise be politick and moderate, and after a civil maner.</p>
+               </div>
+               <div n="27" type="article">
+                  <head>27. <hi>Civill Magistrates be of God, and to what end of him ordained.</hi>
+                  </head>
+                  <p>The civill Magistrate is an ordinance from God, by the which through the help of the nobility, good men being protected, and wicked men corrected, godlinesse, honesty, and peace are preserved amongst men.</p>
+               </div>
+               <div n="28" type="article">
+                  <head>28. <hi>Civill ordinances made by civill Magistrates, ought to be obeyed</hi>
+                  </head>
+                  <p>Whosoever will not resist the ordinance of God, must without any exception of persons, be also subject unto the Magistrate, and obey his commandement, so that it be not repugnant to the word of God.</p>
+               </div>
+               <div n="29" type="article">
+                  <head>29. <hi>The godly Magistrate, and also the wicked, be Gods instru<g ref="char:EOLhyphen"/>ments, the one a blessing, the other a scourge.</hi>
+                  </head>
+                  <p>As the godly and faithfull Magistrate is an inesti<g ref="char:EOLhyphen"/>mable blessing of the Lord: even so a wicked, unfaith<g ref="char:EOLhyphen"/>full,
+<pb n="15" facs="tcp:115807:12"/> foolish, and tyrannicall Magistrate, is stirred up of God in his anger, to be a scourge and chastisement, to punish the sin and wickednesse of his subjects.</p>
+               </div>
+               <div n="30" type="article">
+                  <head>30. <hi>It belongeth to the civill Magistrates to defend the Church of Christ.</hi>
+                  </head>
+                  <p>As it the duty of the Magistrate to maintaine and defend the Church of God with the sword, even so is it the duty of the Ministers of the Church in the be<g ref="char:EOLhyphen"/>half of the same, to crave his help against rebells, he<g ref="char:EOLhyphen"/>reticks, and tyrants, as often as they think need shall require.</p>
+               </div>
+               <div n="31" type="article">
+                  <head>31. <hi>Every man in his vocation ought to live as a subject.</hi>
+                  </head>
+                  <p>If any man against the lawes and priviledges of his country, advanc't himselfe as a lord or magistrate: or if he who is confirmed in the office of a magistrate, doe wrongfully spoyl his subjects of their priviledges, and liberty which he hath sworn unto them, or by open tyranny oppresse them, then ought the inferiour magi<g ref="char:EOLhyphen"/>strates to set themselves against him, who according to God and their duty ought to defend the subjects as well against the domesticall as forrain tyrants, <hi>In this article (as our worshipfull brethren of Geneva did also admonish us) our mind is not to have any window laid open to any rebellion or injustice.</hi>
+                  </p>
+               </div>
+               <div n="32" type="article">
+                  <head>31. <hi>Manifest and notorious crimes (of the inferior Magistrate) are to be only punished by the Prince: and herein all private men and other rather to suffer wrong, than to rebell.</hi>
+                  </head>
+                  <p>But if there be some fault in his person, who accor<g ref="char:EOLhyphen"/>ding to the laws and rites of the country, is lord and ruler either by close or open consent, to wit, that he is ungodly, or covetous, or ambitious, or cruell, or a fornicator, or unchaste, &amp;c. it belongeth only to the
+<pb n="16" facs="tcp:115807:13"/> superior Magistrate and estates of the country to cor<g ref="char:EOLhyphen"/>rect it but it is the duty of al private men, &amp; also of al inferior Magistrates, that herein rendring due obedi<g ref="char:EOLhyphen"/>ence, they rather chuse to suffer wrong, than that lea<g ref="char:EOLhyphen"/>ving their vocation wherein every man ought alwaies to continue himselfe) to set force against force to deale unjustly.</p>
+               </div>
+               <div type="conclusion">
+                  <p>And these are those things, brethren, which, sith yee so required, we thought good to write unto you sin<g ref="char:EOLhyphen"/>cerely and franckly, concerning this businesse. The Lord our God the author of all peace and concord, grant, that as we herein purposed with our selves, so some fruit may redound to the edifying of your Church by this our small labour, unto whose good prayers we commend us all.</p>
+               </div>
+            </div>
+            <div xml:lang="lat" type="version">
+               <pb n="1" facs="tcp:115807:5"/>
+               <opener>
+                  <salute>Piis Jesu Christi servis Ecclesiae Bel<g ref="char:EOLhyphen"/>gio-Germanicae Londinensis Pasto<g ref="char:EOLhyphen"/>ribus ac Senioribus, Fratribus ac sym<g ref="char:EOLhyphen"/>mystis in Domino plurimum obser<g ref="char:EOLhyphen"/>vandis: Gratiam &amp; pacem a Deo Patre per Jesum Christ<g ref="char:EOLhyphen"/>um Dominum no<g ref="char:EOLhyphen"/>strum, Amen.</salute>
+               </opener>
+               <p>Quàm grave nobis fuit intelligere (ob<g ref="char:EOLhyphen"/>servandi fratres) quibus quantisque, dissidiis Ecclesia vobis commissa ja<g ref="char:EOLhyphen"/>ctetur, tam nobis jucundum est intel<g ref="char:EOLhyphen"/>ligere, vos non tan<g ref="char:EOLhyphen"/>tum de instauranda pace &amp; concordia cogitare; verumeti<g ref="char:EOLhyphen"/>am ejus rei perfi<g ref="char:EOLhyphen"/>ciendae causa, id potissimum consi<g ref="char:EOLhyphen"/>lium capere, quod in primis utile &amp; necessarium esse arbitramur. Quùm enim sit Ecclesia ex Dei verbo tanquam ex semine quodam ingenita, nec alio etiam alimento adolescat,
+<pb n="2" facs="tcp:115807:6"/> recte omnino vide<g ref="char:EOLhyphen"/>mini cogitasse, non alia ratione, quam sana semel consti<g ref="char:EOLhyphen"/>tuta doctrina, tum jam exortas contro<g ref="char:EOLhyphen"/>versias componi, tum alias forsan ex<g ref="char:EOLhyphen"/>orituras impediri posse. Lubenter ita{que} legimus &amp; expen<g ref="char:EOLhyphen"/>dimus theses a vo<g ref="char:EOLhyphen"/>bis perscriptas de Christiana libertate &amp; aliis aliquot ad<g ref="char:EOLhyphen"/>haerentibus quaesti<g ref="char:EOLhyphen"/>onibus, nimirum de legitimo rerum in<g ref="char:EOLhyphen"/>differentiū usu, de<g ref="char:EOLhyphen"/>nique de jurisdicti<g ref="char:EOLhyphen"/>onis tum Ecclesia<g ref="char:EOLhyphen"/>sticae tum civilis fi<g ref="char:EOLhyphen"/>nibus Quid autem nobis de iis videa<g ref="char:EOLhyphen"/>tur, quoniam a no<g ref="char:EOLhyphen"/>bis (nunquam alio<g ref="char:EOLhyphen"/>qui nostrum judici<g ref="char:EOLhyphen"/>um interposituris) tam enixe flagitatis, ut fratres etiam hac de re ad nos mit<g ref="char:EOLhyphen"/>tendos censueritis, non potuimus ne{que} desiderio vestro, ne<g ref="char:EOLhyphen"/>que officio nostro deesse. Responde<g ref="char:EOLhyphen"/>mus igitur vobis, in genere probari do<g ref="char:EOLhyphen"/>ctrinam in iis comprehensam ut verbo Dei &amp; piorum authorum scriptis consen<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aneam, &amp; hunc <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cum sanctis Ecclesiis consensum vobis in Domino gratulamur, in quo etiam rogamus, ut magis ac magis ad extremum usque constanter perseveretis. Sed hoc tamen pro eo jure, quod ip<g ref="char:EOLhyphen"/>si nobis tribuistis, ingenue &amp; syncerè apud vos fatemur, desiderari a nobis in quibusdam perspicui autem, quam satis intelligitis in ejusmodi aphorismis praecipue requiri. Non desunt etiā nonnulla, quae d<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iuscule, alia quae nimium concise, quaedam quae non suo loco dicta nobis quidem vide<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.
+<pb n="3" facs="tcp:115807:6"/> Nonnulla denique mallemus non prae<g ref="char:EOLhyphen"/>termissa, sicut sigil<g ref="char:EOLhyphen"/>latim vobis decla<g ref="char:EOLhyphen"/>randum arbitrari su<g ref="char:EOLhyphen"/>mus, ut de re tota postea, quicquid vo<g ref="char:EOLhyphen"/>bis Dei Spirit{us} sug<g ref="char:EOLhyphen"/>gesserit, statuatis.</p>
+               <div n="1" type="article">
+                  <p>Christiana libertas non est vaga &amp; ef<g ref="char:EOLhyphen"/>fraenis licentia, qua quicquid lubet, pro nostro arbitrio aga<g ref="char:EOLhyphen"/>mus aut omittamus sed est gratuitum do<g ref="char:EOLhyphen"/>num per Christum Dominum nostrum in nos collatum, per quod filii Dei (id est credentes omnes) a maledictione legis, sive a morte aeterni, itemque a legalium ceremoniarum jugo liberati, simulque sancto Spiritu do<g ref="char:EOLhyphen"/>nati, incipiunt ultro &amp; sponte in sancti<g ref="char:EOLhyphen"/>tate &amp; justitia Deo servire.</p>
+               </div>
+               <div n="2" type="article">
+                  <p>Itaque quum, qui fi<g ref="char:EOLhyphen"/>lius Dei est, Spiritu Dei regatur, jubeat autem etiam Dei Spiritus, ut &amp; omni humanae ordinatio<g ref="char:EOLhyphen"/>ni (id est, ordini po<g ref="char:EOLhyphen"/>litice, cujus custos est Magistratus) &amp; praepositis pro ani<g ref="char:EOLhyphen"/>marum nostrarum salute vigilantibus obediamus, adeoque pro nostrae vocationis ratione, proximorum salutem sedulo procurimus: con<g ref="char:EOLhyphen"/>sequitur cum abusi Christianae libertatis <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> vel potius adhuc esse <gap reason="illegible" resp="#keyers" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>datam sub peccato qui vel suis magistratibus, vel praepositis <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> in Domino, nec conscientiam fra<g ref="char:EOLhyphen"/>trum aedificare studet.</p>
+               </div>
+               <div n="3" type="article">
+                  <pb n="4" facs="tcp:115807:7"/>
+                  <head>3</head>
+                  <p>Quid porro ad edificationem faci<g ref="char:EOLhyphen"/>at, quid minus, non est ex vulgi aut de<g ref="char:EOLhyphen"/>ni{que} simplicis cujus<g ref="char:EOLhyphen"/>quam hominis ju<g ref="char:EOLhyphen"/>dicio, neque eti<g ref="char:EOLhyphen"/>am ex actionum eventu aestiman<g ref="char:EOLhyphen"/>dum, sed interdum quidem ex rerum ipsarum natura, de quibus agendis vel omittendis quaeri<g ref="char:EOLhyphen"/>tur, (puta si a deo vel praeceptae vel inhi<g ref="char:EOLhyphen"/>bitae sint, &amp; nostrae vocationi consen<g ref="char:EOLhyphen"/>tanae vel minus). Interdum <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vero nempe si res alio<g ref="char:EOLhyphen"/>qui suapte natura mediae &amp; indiffe<g ref="char:EOLhyphen"/>rentes fuerint) ex temporum, loco<g ref="char:EOLhyphen"/>rum &amp; personarum circumstantiis ad verbi Dei trutinam expensis.</p>
+               </div>
+               <div n="4" type="article">
+                  <p>Conscientia qui<g ref="char:EOLhyphen"/>dem est sensus di<g ref="char:EOLhyphen"/>vini iudicii, sive quia sit ex verbo Dei de illo iudicio eductus, sive illud sibi temere aut su<g ref="char:EOLhyphen"/>perstitiose fabricet. Verum quum Chri<g ref="char:EOLhyphen"/>stianis opporteat tenent Domini sui mandata, ea demum proprie vocatur re<g ref="char:EOLhyphen"/>cta &amp; bona consci<g ref="char:EOLhyphen"/>entia, quae verbo Dei regitur: quo fit, ut quisque fidelis &amp; quod agit &amp; quod omittit ad illud revelatum verbum eximinet pensiculetque, ut de utroque, num justum vel injustum sit, statuat.</p>
+               </div>
+               <div n="5" type="article">
+                  <p>Res mediae di<g ref="char:EOLhyphen"/>cuntur, quae per se,
+<pb n="5" facs="tcp:115807:7"/> sive ex sui natura simpliciter aestima<g ref="char:EOLhyphen"/>tae, nec bonae nec malae sunt, ut esca &amp; potus, &amp; similia, in quibus propre rea dicitur non esse po<g ref="char:EOLhyphen"/>situm regnum Dei, ac proinde quibus aliquis vel bene vel male uti, aut non uti possit: ex quo efficitur, vehemen<g ref="char:EOLhyphen"/>ter errare, qui indif<g ref="char:EOLhyphen"/>ferentes vocari pu<g ref="char:EOLhyphen"/>tant, quasi sine ulla exceptione, quoties libet, eas vel omit<g ref="char:EOLhyphen"/>tere vel usutpare li<g ref="char:EOLhyphen"/>ceat absque pecca<g ref="char:EOLhyphen"/>to.</p>
+               </div>
+               <div n="6" type="article">
+                  <p>Res alioqui per se mediae, mutant quodammodo na<g ref="char:EOLhyphen"/>turam, quum ali<g ref="char:EOLhyphen"/>quo legitimo man<g ref="char:EOLhyphen"/>dato vel praecipiun<g ref="char:EOLhyphen"/>tur, vel prohiben<g ref="char:EOLhyphen"/>tur, quia neque contra praeceptum omitti possunt si praecipiantur▪ neque contra interdictum fieri, si prohiben<g ref="char:EOLhyphen"/>tur, sicut in lege ceremoniali appa<g ref="char:EOLhyphen"/>ret.</p>
+               </div>
+               <div n="7" type="article">
+                  <p>Etsi jugum legis ceremonalis sustu<g ref="char:EOLhyphen"/>lit Christiana li<g ref="char:EOLhyphen"/>bertis, &amp; in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> locum non licet cuiquam mortali aliud jugum im<g ref="char:EOLhyphen"/>ponere, tamen rerum mediarum usus nimium premiscu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s legitime coercetur, tum in genere tum in specie.</p>
+               </div>
+               <div n="8" type="article">
+                  <p> In genere coercetur rerum istarum mediarum usus per legem charitatis, quae uni<g ref="char:EOLhyphen"/>versalis est, id est, ad omnes, &amp; ad omnia spectans, ac diserte ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ens, ne quid,
+<pb n="6" facs="tcp:115807:8"/> etiam alioqui me<g ref="char:EOLhyphen"/>dium ac licitum fiat, quo preximus destruatur, vel o<g ref="char:EOLhyphen"/>mittatur, quo aedi<g ref="char:EOLhyphen"/>ficetur. Sed duo ta<g ref="char:EOLhyphen"/>men hic in pri<g ref="char:EOLhyphen"/>mis praesupponen<g ref="char:EOLhyphen"/>da sunt: Unum, ut quid fieri vel omit<g ref="char:EOLhyphen"/>ti possit ac debeat, Iemper ex Dei ver<g ref="char:EOLhyphen"/>bo judicetur: alterum, ut unusquisque habeat vocatio<g ref="char:EOLhyphen"/>nis suae <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ationem. Et ita intelligen<g ref="char:EOLhyphen"/>dum dicimus illud apostoli. Factus sum omnibus omnia.</p>
+               </div>
+               <div n="9" type="article">
+                  <p>In specie vero co<g ref="char:EOLhyphen"/>ercetur earum re<g ref="char:EOLhyphen"/>rum usus ex consti<g ref="char:EOLhyphen"/>tutione vel politi<g ref="char:EOLhyphen"/>ca vel Ecclesiastica. Etsi enim conscien<g ref="char:EOLhyphen"/>tias proprie solus Deus ligat, tamen quatenus vel Mag<g ref="char:EOLhyphen"/>stratus, qui Dei mi<g ref="char:EOLhyphen"/>nister est, judicat interesse Reipub ut quicquam alioqui per se licitum non fiat: vel Ecclesia ordinis &amp; decori, adeoque aedificati<g ref="char:EOLhyphen"/>onis rationem ha<g ref="char:EOLhyphen"/>bens, leges aliquas de rebus mediis rite condit, eiusmodi leges piis omnino sunt observandae, &amp; catenus conscien<g ref="char:EOLhyphen"/>tias ligant, ut nemo sciens &amp; prudens, rebellandi animo, possit absque peccato, vel facere quae ita prohibentur, vel omittere quae sic praecipiuntur.</p>
+               </div>
+               <div n="10" type="article">
+                  <p>Quum autem ista non per se, sed ob certis demum circumstantiis ordinentur, non quasi res ipsae sua pie natura sint illicitae (hoc enim consti<g ref="char:EOLhyphen"/>tuere
+<pb n="7" facs="tcp:115807:8"/> solius Dei est) cessantibus istius<g ref="char:EOLhyphen"/>modi circumstan<g ref="char:EOLhyphen"/>tiis, &amp; modo pro <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> offen<g ref="char:EOLhyphen"/>diculum, absitque improba rebellandi voluntas, nemo peccati arguendus est, qui praeter illas ordinationes fece<g ref="char:EOLhyphen"/>rit, sicut ex ipso Davidis exemplo liquet, in re alio<g ref="char:EOLhyphen"/>qui expresse inhi<g ref="char:EOLhyphen"/>ta, ut qui panes pro<g ref="char:EOLhyphen"/>positionis ederit.</p>
+               </div>
+               <div n="11" type="article">
+                  <p>Qui propter aliam rationem quam il<g ref="char:EOLhyphen"/>lam triplicem, id est, nec propter aedificationem, nec propter politicam aut Ecclesiasticam constitutionem, li<g ref="char:EOLhyphen"/>berum rerum me<g ref="char:EOLhyphen"/>diarum usum pro<g ref="char:EOLhyphen"/>hibito vel praecipi<g ref="char:EOLhyphen"/>unt, vel <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> qui alienas conscienti<g ref="char:EOLhyphen"/>as temere in his re<g ref="char:EOLhyphen"/>bus judicant, gravi<g ref="char:EOLhyphen"/>ter &amp; in Deum et in proximum pec<g ref="char:EOLhyphen"/>cant.</p>
+               </div>
+               <div n="12" type="article">
+                  <p>Qui hoc faciunt vel manifesta improbitate, vel affect<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ignorantia, <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> non sunt. Qui vero ignorantia simplici vel vetusti <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> usus authoritate <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in his rebus aberrant, tolerandi sunt, quoad eius fieri potest, eo usque tamen, ut ipsi Christianae li<g ref="char:EOLhyphen"/>bertati in communi praeiudicium non <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, id quod ex circumstantiis &amp; spiritu discretionis de iudi<g ref="char:EOLhyphen"/>candum est sicut ex Pauli non tantum doctrina, sed etiam ex factis liquet, Petrum quidem rereh<g ref="char:EOLhyphen"/>endentis,
+<pb n="8" facs="tcp:115807:9"/> Timo<g ref="char:EOLhyphen"/>heum vero circum<g ref="char:EOLhyphen"/>cidentis, &amp; rursus Titum non cir<g ref="char:EOLhyphen"/>cumcidentis: Ac proinde causa non est, cur ob privato<g ref="char:EOLhyphen"/>rum quorundam offensiones Eccle<g ref="char:EOLhyphen"/>sia hoc vel illud re<g ref="char:EOLhyphen"/>cte constitutum immutet.</p>
+               </div>
+               <div n="13" type="article">
+                  <p>Sicut si de quibus paulo ante diximus graviter in Deum &amp; in proximum peccant, ita sunt magnopere repre<g ref="char:EOLhyphen"/>hendendi, qui in<g ref="char:EOLhyphen"/>firmas, &amp;, in rebus indifferentibus vel faciendis vel non faciendis, non<g ref="char:EOLhyphen"/>dum satis cruditas conscientias, vel praepostero zelo vel impatientis, penitus subveriunt: sicut &amp; illi in con<g ref="char:EOLhyphen"/>trarium peccant qui sua conniventia infirmitatem fra<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um sovent &amp; confirmant.</p>
+               </div>
+               <div n="14" type="article">
+                  <p>Constitutiones istae ecclesiasticae ob certas circumstan<g ref="char:EOLhyphen"/>tiis legitime factae (ordinis videlicet re publicae utilitatis <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, non autem quasi sit in iis cul<g ref="char:EOLhyphen"/>tus Dei positus) non tantum sunt Catholicae, id est universales, verum etiam particulares interdum, propter multipli<g ref="char:EOLhyphen"/>cem circumstantiarum varietatem; ac proinde peccant, tum qui Catholicas temere immutant, tum qui easdem, etiamsi certa mutationis necessitas incumbat, pertiniciter potius quam constanter <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tinent: tum vero maxime, qui sinistro judicio particulares quibusvis obtrudunt.</p>
+               </div>
+               <div n="15" type="article">
+                  <pb n="9" facs="tcp:115807:9"/>
+                  <p>Ecclesia Christi est coetus hominum Evangelium Chri<g ref="char:EOLhyphen"/>sti profitentium, in quo per ministros ad hoc vocatos E<g ref="char:EOLhyphen"/>vangelii doctrina pure traditur, &amp; Sacramenta ex Dei verbo administran<g ref="char:EOLhyphen"/>tur, qui coetus ali<g ref="char:EOLhyphen"/>quando rarus est, a<g ref="char:EOLhyphen"/>liquando numero<g ref="char:EOLhyphen"/>sus: &amp; interdum hominibus conspi<g ref="char:EOLhyphen"/>cuus (constante vi<g ref="char:EOLhyphen"/>delicet publico mi<g ref="char:EOLhyphen"/>nisterio) interdum delitescens, &amp; ad tempus veluti ob<g ref="char:EOLhyphen"/>rutus, aut publicis omnium ordinum corruptelis, aut vi hostili, aut utroque illo malo, exercen<g ref="char:EOLhyphen"/>te Domino justa sua judicia in ho<g ref="char:EOLhyphen"/>minum perfidiam, sed nunquam ta<g ref="char:EOLhyphen"/>men Ecclesiam su<g ref="char:EOLhyphen"/>am penitus delente</p>
+               </div>
+               <div n="16" type="article">
+                  <p>Quoties Deus tales visibiles hominum coetus instituit, ut se in iis patefaciat, su<g ref="char:EOLhyphen"/>os electos vocet, ac spiritus sui divitias per verbi sui &amp; Sa<g ref="char:EOLhyphen"/>cramentorum mi<g ref="char:EOLhyphen"/>nisterium dispenset, evidens fit, prorsus necessarium esse, ut (quisquis in suum certissimum exiti<g ref="char:EOLhyphen"/>um Deo ejusque sapientiae praescri<g ref="char:EOLhyphen"/>bere nolit) pro oblata oportunitate se alicui particulari Ecclesiae (tanquam cuidam certae in vasta ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Dei civitate parcaciae) conjungat subjiciatque.</p>
+               </div>
+               <div n="17" type="article">
+                  <p>Ut vero Catholicae Ecclesiae Dei sua constet unitas
+<pb n="10" facs="tcp:115807:10"/> non licet particula<g ref="char:EOLhyphen"/>ri Ecclesiae usurpare in aliam primatum aut superioritatem, ut eam sua autho<g ref="char:EOLhyphen"/>ritate judicet, con<g ref="char:EOLhyphen"/>demuet, ab eaque secessionem faciat, praesertim quum manifestum sit, om<g ref="char:EOLhyphen"/>nes Dei Ecclesias aequali potestate a Christo donatas esse.</p>
+               </div>
+               <div n="18" type="article">
+                  <p>Porro si particularis aliqua Ecclesia quidpiam in alia desideret, sive id ad doctrinam sive ad mores spectet, ac fraterne pie{que} con<g ref="char:EOLhyphen"/>ferendo &amp; monen<g ref="char:EOLhyphen"/>do nihil proficiat, curabit vitata omni <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> quae possit Ecclesias inter se comminere, &amp; servato commu<g ref="char:EOLhyphen"/>nis concordiae vin<g ref="char:EOLhyphen"/>culo, rem totam ad Synodum referri, in quo ex uno Dei verbo de controver<g ref="char:EOLhyphen"/>sia dijudicetur. Sy<g ref="char:EOLhyphen"/>nodi autem nomine non intelligimus neque oecumeni<g ref="char:EOLhyphen"/>cum, quod vocant Concilium, (quis enim illud coget?) neque coetum ad quem necesse sit a<g ref="char:EOLhyphen"/>liquot centenas Ec<g ref="char:EOLhyphen"/>clesias convenire, nisi forte ali<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ju<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> regionis ordo ita serat, sed cui pro ratione loci &amp; temporis, adhibeantur aliae, seu vicinae seu longinquae Ecclesiae, quae ex verbo Dei controversiam dirimant.</p>
+               </div>
+               <div n="19" type="article">
+                  <p>Itaque ad evitandam foe<g ref="char:EOLhyphen"/>dam &amp; perniciosam membrorum in sacro Christi corpore lacerationem &amp; divulsionem, arbitramur
+<pb n="11" facs="tcp:115807:10"/> nulli licere ulla de cause discessionem facere a Christi Ec<g ref="char:EOLhyphen"/>clesia, id est, in qua saltem ea salva &amp; illibata doctrina re<g ref="char:EOLhyphen"/>tineatur, qua con<g ref="char:EOLhyphen"/>stat incolumitas pietatis, &amp; Sacra<g ref="char:EOLhyphen"/>mentorum usus a domino institutus custodiatur. Ideo<g ref="char:EOLhyphen"/>que non tantum Haereticos, sed eti<g ref="char:EOLhyphen"/>am schismaticos omnes graviter pec<g ref="char:EOLhyphen"/>care dicimus. Dis<g ref="char:EOLhyphen"/>cedere autem a Christi Ecclesia, non est simpliciter mi<g ref="char:EOLhyphen"/>grare ex uno coetu in alium, sed etiam si in eodem loco maneas, se jungere sese a communi Ecclesiae coetu, tan<g ref="char:EOLhyphen"/>quam non sis ejus membrum.</p>
+               </div>
+               <div n="20" type="article">
+                  <p>In Ecclesia Christi, id est in domo sive civitate Dei viventis, consistorium sive gubernatorum coetus ex ministris verbi &amp; senioribus legitime vocatis constans, personam sustinet universae Ecclesias in Ec<g ref="char:EOLhyphen"/>clesiastico mune<g ref="char:EOLhyphen"/>re, quemadmod<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> quisque Magistra<g ref="char:EOLhyphen"/>tus in sua Repub.</p>
+               </div>
+               <div n="21" type="article">
+                  <p>Si quis sive privatu sive publico munere fungens in Ecclesia, jam conditis ac receptis Ecclesiasti<g ref="char:EOLhyphen"/>cis constitutionibus praesertim Catholicis, non acquiescit, modeste consulere pastores &amp; Seniores tenetur, &amp; eorum judicio stare, hactenus saltem, ut Ecclesiam non turbet, juxta illud Apostoli dictum. Si quis vult contentiosus esse, nos talem consuetudinem non habemus, ne{que} ecclesia Dei.
+<pb n="12" facs="tcp:115807:11"/> Sin vero de con<g ref="char:EOLhyphen"/>dendis agitur, tune nihil prorsus, ne ipsi quidem syne<g ref="char:EOLhyphen"/>drio temere no<g ref="char:EOLhyphen"/>vandum est: &amp; an<g ref="char:EOLhyphen"/>tequam lex ulla lanciatur, non tan<g ref="char:EOLhyphen"/>tum videndum, an verbo Dei consen<g ref="char:EOLhyphen"/>tanea sit, verum e<g ref="char:EOLhyphen"/>tiam an utile sit ac pene necessarium illam eo ipso intro<g ref="char:EOLhyphen"/>duci. Quod si vel le<g ref="char:EOLhyphen"/>vissima sit suspicio, aliquem ex grege offensum iri, nec tamen totum coe<g ref="char:EOLhyphen"/>tum in suffragium mittere expediat, &amp; pii Magistratus subsidium desit, percontandae &amp; ex<g ref="char:EOLhyphen"/>pendendae sunt e<g ref="char:EOLhyphen"/>jusmodi hominum sententiae, at erudi<g ref="char:EOLhyphen"/>antur infirmi, &amp; si<g ref="char:EOLhyphen"/>qui pervicaces fu<g ref="char:EOLhyphen"/>turi videantur, tem<g ref="char:EOLhyphen"/>pestive officii ad<g ref="char:EOLhyphen"/>moneantur. Nec pigebit etiam, si res ita postulas, aut Ec<g ref="char:EOLhyphen"/>clesias aliquas mi<g ref="char:EOLhyphen"/>nime omnium sus<g ref="char:EOLhyphen"/>pectas, aut pios &amp; eruditos homines consulere, ut nihil nisi cum fructu &amp; aedificatione in Ec<g ref="char:EOLhyphen"/>clesia Dei statuatur</p>
+               </div>
+               <div n="22" type="article">
+                  <p>Hac ratione p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> legibus, qui se factiose opponunt, nec se ad officium revocari patiuntur, ac multo magis qui in suos ministros aut Seniores conjurant, digni sunt; qui ut publici Ecclesiae hostes tractentur.</p>
+               </div>
+               <div n="23" type="article">
+                  <p>Uni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s est Consistorii de condendis disciplinae novis legibus, ita, uti diximus, in timore, &amp; trerrore Domini cogitare, conditas autem ad praesentem necessitatem accommodare,
+<pb n="13" facs="tcp:115807:11"/> tum admonendis, tum etiam, si ultimo remedio sit opus, vel a coena domini suspendendis, vel semel excommuni<g ref="char:EOLhyphen"/>candis, qui pecca<g ref="char:EOLhyphen"/>verint, prout rei, temporis &amp; perso<g ref="char:EOLhyphen"/>narum rationes po<g ref="char:EOLhyphen"/>stulare videbuntur. Nam nec de Catho<g ref="char:EOLhyphen"/>lica Ecclesia, nec etiam de totius multitudinis in par<g ref="char:EOLhyphen"/>ticulari aliqua Ec<g ref="char:EOLhyphen"/>clesia coetu, sed de dictis Ecclesiae gu<g ref="char:EOLhyphen"/>bernatoribus (quos Christus ad exem<g ref="char:EOLhyphen"/>plum superioris Judaicae in suam Ecclesiam intro<g ref="char:EOLhyphen"/>duxit) scriptum est, Dic Ecclesiae Quod si Ecclesiam audire <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eglexerit, sit tibi velut quiv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Ethni<g ref="char:EOLhyphen"/>cus &amp; publicinus.</p>
+               </div>
+               <div n="24" type="article">
+                  <p>Ecclesiastica ex<g ref="char:EOLhyphen"/>communicatio, est publicum Seniorum Ecclesiae judicium, in lapsum, &amp; im<g ref="char:EOLhyphen"/>poenitentem Eccle<g ref="char:EOLhyphen"/>siae subditum, post institutam debitam &amp; legitimam de pec<g ref="char:EOLhyphen"/>catis ejus cognitio<g ref="char:EOLhyphen"/>nem &amp; admonitio<g ref="char:EOLhyphen"/>nem in Chr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sti Do<g ref="char:EOLhyphen"/>mini nomine <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c ip<g ref="char:EOLhyphen"/>sius verbi authori<g ref="char:EOLhyphen"/>tate pronunciatum, quo declaratur, eundem (donec resipiscat) ex Ecclesia Dei &amp; sanctorum communione ejectum, ac Satanae traditum esse.</p>
+               </div>
+               <div n="25" type="article">
+                  <p>Si qui factum sibi injuriam querentur, apad ipsum synedrium primum con<g ref="char:EOLhyphen"/>querentur, idque modeste, &amp;, ut Christianos decet, peccata sua confiten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, potius quam exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sin<g ref="char:EOLhyphen"/>tes, ut domi, si fieri possit, tota controversia dijudicetur &amp; co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ponatu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Sin vero id fieri non po<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>erit,
+<pb n="14" facs="tcp:115807:12"/> vel erunt con<g ref="char:EOLhyphen"/>sulendae aliae Ecele<g ref="char:EOLhyphen"/>siae, vel adeundus, si sit opus, Christia<g ref="char:EOLhyphen"/>nus Magistratus, vel res ad Synodum re<g ref="char:EOLhyphen"/>feratur. Is ordo de<g ref="char:EOLhyphen"/>nique servabitur, qui fuerit in ea re<g ref="char:EOLhyphen"/>gione, in qua ejus<g ref="char:EOLhyphen"/>modi quippiam in<g ref="char:EOLhyphen"/>cidet, constitutus. Interea vero, quis<g ref="char:EOLhyphen"/>quis causam suam factiose persequitur, ac non potius quie<g ref="char:EOLhyphen"/>te causam suam a<g ref="char:EOLhyphen"/>get, dignum se esse prodit, qui ab Ec<g ref="char:EOLhyphen"/>clesia, vel ob hoc ip<g ref="char:EOLhyphen"/>sum summoveatur.</p>
+               </div>
+               
+               <div n="26" type="article">
+                  <p>Qui legitime ex<g ref="char:EOLhyphen"/>communicati sunt, aut qui illegitime ac cum offensione ab aliqua Ecclesia desciverint, quan<g ref="char:EOLhyphen"/>doquidem a Christi regno &amp; salute ex<g ref="char:EOLhyphen"/>ulant, ad nulla pu<g ref="char:EOLhyphen"/>blica Ecclesiae mi<g ref="char:EOLhyphen"/>nisteria obeunda, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut Sacramentorum usum in ulla Eccle<g ref="char:EOLhyphen"/>sia admitti possunt, donec Ecclesiae le<g ref="char:EOLhyphen"/>gitime satis fece<g ref="char:EOLhyphen"/>rint, nec ulla cum <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is consuetudo, nisi quae ad corum e<g ref="char:EOLhyphen"/>mendationem fa<g ref="char:EOLhyphen"/>cere possit, aut dun<g ref="char:EOLhyphen"/>taxat sit politica, eaque moderata &amp; politico more contrahi, aut haberi potest.</p>
+               </div>
+               <div n="27" type="article">
+                  <p>Politicus Magistratus est ordinatio divina, qua procerum opera defensis bonis, coercitis autem malis, pietas, honestas &amp; pax inter ho<g ref="char:EOLhyphen"/>mines conservantur.</p>
+               </div>
+               <div n="28" type="article">
+                  <p>Debent sine ulla personarum exceptione, quot quot Dei ordinationi adversari <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olunt, etiam magistratus subjici, ejusque mandatis, modo Dei verbo non adversentur, p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re.</p>
+               </div>
+               <div n="29" type="article">
+                  <p>Quem<g ref="char:EOLhyphen"/>admodum
+<pb n="15" facs="tcp:115807:12"/> pius &amp; fidelis magistratus incomparabilis Do<g ref="char:EOLhyphen"/>mini benedictio est: ita impius, in<g ref="char:EOLhyphen"/>fidelis, iners au: ty<g ref="char:EOLhyphen"/>rannicus magistra<g ref="char:EOLhyphen"/>tus, ut sit flagellum &amp; animadversio, ad castiganda, subdi<g ref="char:EOLhyphen"/>torum peccata &amp; malitiam, ab irato Deo excitatur.</p>
+               </div>
+               <div n="30" type="article">
+                  <p>Ut officium Magi<g ref="char:EOLhyphen"/>stratus est Ecclesi<g ref="char:EOLhyphen"/>am Dei gladio tueri ac conservare: ita itidem Ecclesiae mi<g ref="char:EOLhyphen"/>nistrorum est, illius pro Ecclesia implo<g ref="char:EOLhyphen"/>rare auxilium ad<g ref="char:EOLhyphen"/>versus rebelles, hae<g ref="char:EOLhyphen"/>reticos &amp; tyrannos, quotie cunque opus esse duxerint.</p>
+               </div>
+               <div n="31" type="article">
+                  <p>Si quisquam repug<g ref="char:EOLhyphen"/>nantibus legibus <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> pat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iae privilegiis sese Dominum <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Ma<g ref="char:EOLhyphen"/>gistratum constitu<g ref="char:EOLhyphen"/>it: aut si is, qui in Magistratu confir<g ref="char:EOLhyphen"/>matus est, subditos privilegiis &amp; liber<g ref="char:EOLhyphen"/>tate, quae iis adju<g ref="char:EOLhyphen"/>ravit, injuste spoliat aut eosdem mani<g ref="char:EOLhyphen"/>festa tyrannide op<g ref="char:EOLhyphen"/>primit: tum huic sese opponere de<g ref="char:EOLhyphen"/>bent ordinari Ma<g ref="char:EOLhyphen"/>gistratus qui secun<g ref="char:EOLhyphen"/>dum Deum &amp; pro officio, subditos suos defendere d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aduersus domesticum <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ā externum num tyrannum. In hoc articulo (quemadmodum &amp; observandi fratres Genevenses admonuerunt) nullā volumus ulli rebel<g ref="char:EOLhyphen"/>lioni aut injustitiae senistram aperir.</p>
+               </div>
+               <div n="32" type="article">
+                  <p> Quod si viti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> aliquod sit in persona ejus, qui juxta leges &amp; pa<g ref="char:EOLhyphen"/>triae iura, aut per tacitū, aut apertum assensum dominus est, nempe quod sit, vel impius, vel avarus, vel
+<pb n="16" facs="tcp:115807:13"/> ambitiosus, vel cru<g ref="char:EOLhyphen"/>delis, vel s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ortat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, impudicus &amp;c. hoc corrigere solus est superioris potesta<g ref="char:EOLhyphen"/>tis ac patriae ordi<g ref="char:EOLhyphen"/>num: quorumvis autem privatorum hominum ac etiam ipsorum inferio<g ref="char:EOLhyphen"/>rum magistratuum est, ut praestita hic debita obedientia, juxta Christi do<g ref="char:EOLhyphen"/>ctrinam simul &amp; exemplum, magis elegant injuriam pati, quam deserta vocatione (in qua quisque perpetuo se continere debet) vim vi opponere, ac sic injuste facere velle.</p>
+               </div>
+               <div type="conclusion">
+                  <p>Et haec quidem sunt fratres, quae de hoc negotio vobis, quandoquidem it a postulastis, candide &amp; in<g ref="char:EOLhyphen"/>genue scribenda putavimus. Faxit Dominus Deus noster omnis sanctae pacis &amp; concordiae author, ut quod unum hic nobis proposuimus, aliquis ex hac nostra opella fructus ad Ecclesiae vestrae aedifi<g ref="char:EOLhyphen"/>cationem redeat, cujus precibus nos totos commendamus, </p>
+               </div>
+            </div>
+            <closer>
+               <dateline xml:lang="lat">Genevae. <date>25. Junii, 1568.</date> in commu<g ref="char:EOLhyphen"/>ni fratrum ex urbe &amp; agro collectorum coetu.</dateline>
+               <signed xml:lang="lat">Subscriptum.
+<list>
+                     <item>Theodore Beza,</item>
+                     <item>Remondus Calvetus,</item>
+                     <item>Nicolaus Colladonius,</item>
+                     <item>Johannes Tremulaeus,</item>
+                     <item>Johannes Pinaldus,</item>
+                     <item>Gasparus Favergius,</item>
+                     <item>Car. Perrotus.</item>
+                     <item>Egidius Chaussaeus,</item>
+                     <item>Cornelius Bertrandus,</item>
+                     <item>Franciscus Protus,</item>
+                     <item>Petrus Carpenterius,</item>
+                     <item>Johannes de Pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</item>
+                     <item>Johannes Perrilus,</item>
+                     <item>Ludovicus Henericus,</item>
+                     <item>Johannes Serranus,</item>
+                     <item>Anthonius Calvus,</item>
+                     <item>Simon Gelartius,</item>
+                     <item>Johannes Jacomotus,</item>
+                     <item>Abednago Duplaeus.</item>
+                  </list>
+               </signed> Hereunto also subscribed
+<signed xml:lang="eng">the Churches of <hi>Berna, Lausann<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Tigurine,</hi> and <hi>Heydelbergine.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
